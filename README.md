@@ -1,6 +1,6 @@
 # NLP-Disaster-Tweets
 
-Apply LSTM, BERT, and Random Forest model to classify disaster tweets.
+Apply LSTM, BERT, Random Forest, and Naive Bayes model to classify disaster tweets.
 
 Kaggle link: https://www.kaggle.com/competitions/nlp-getting-started
 
