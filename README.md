@@ -12,7 +12,7 @@ Apply LSTM, BERT, Random Forest, and Naive Bayes model to classify disaster twee
 
 ![Screen Shot 2022-10-24 at 1 31 07 PM](https://user-images.githubusercontent.com/90480106/197599372-3ae8175e-88cc-4ff3-9041-99c30b93b224.png)
 
-![Screen Shot 2022-10-24 at 1 32 49 PM](https://user-images.githubusercontent.com/90480106/197599648-53df294f-16d4-426f-b0b1-eb25006f2b3a.png)
+![Screen Shot 2022-10-24 at 1 34 23 PM](https://user-images.githubusercontent.com/90480106/197599924-d69e0ab2-03f7-4b2e-83a9-a4f0abe2f74a.png)
 
 NLP_Disaster_Tweets_2.ipynb: All the code including LSTM, BERT, Random Forest, and Naive Bayes
 
