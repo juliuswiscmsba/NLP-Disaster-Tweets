@@ -1,8 +1,18 @@
-# NLP-Disaster-Tweets
+## NLP-Disaster-Tweets
+
+![Screen Shot 2022-10-24 at 12 41 08 PM](https://user-images.githubusercontent.com/90480106/197590965-aec1f4e1-a249-44ce-9409-7a4976163910.png)
+
+Kaggle link: https://www.kaggle.com/competitions/nlp-getting-started
+
+Dataset:
+
+  * Columns: Location, Keyword, Tweets
 
 Apply LSTM, BERT, Random Forest, and Naive Bayes model to classify disaster tweets.
 
-Kaggle link: https://www.kaggle.com/competitions/nlp-getting-started
+![Screen Shot 2022-10-24 at 1 31 07 PM](https://user-images.githubusercontent.com/90480106/197599372-3ae8175e-88cc-4ff3-9041-99c30b93b224.png)
+
+![Screen Shot 2022-10-24 at 1 32 49 PM](https://user-images.githubusercontent.com/90480106/197599648-53df294f-16d4-426f-b0b1-eb25006f2b3a.png)
 
 NLP_Disaster_Tweets_2.ipynb: All the code including LSTM, BERT, Random Forest, and Naive Bayes
 
